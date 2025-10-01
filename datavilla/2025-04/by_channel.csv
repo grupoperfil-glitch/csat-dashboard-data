@@ -1,8 +1,7 @@
 Canal,Tempo médio de atendimento,Tempo médio de espera,Total de atendimentos,Total de atendimentos concluídos,Média CSAT,_handle_seconds,_wait_seconds
-Casa Amarela,,,3,0,,0,0
-Casa Verde,159:43:30,24:45:08,15,8,4.75,575010,89108
-Coordenação,75:45:10,42:59:59,41,41,4.0,272710,154799
-Financeiro,59:11:46,57:58:18,38,36,4.0,213106,208698
-Orientação Pedagógica,65:31:46,52:27:57,41,40,4.714285714285714,235906,188877
-Perita,52:23:36,35:42:04,7,4,,188616,128524
-Secretaria,,,1,0,,0,0
+Casa Verde,104:16:31,104:11:35,1,1,5.0,375391,375095
+Coordenação,119:03:07,113:55:24,11,11,4.333333333333333,428587,410124
+Financeiro,52:56:52,52:29:17,7,7,4.4,190612,188957
+Orientação Pedagógica,377:56:45,290:22:40,13,13,3.25,1360605,1045360
+Perita,85:34:33,64:06:48,2,2,1.0,308073,230808
+Secretaria,157:28:07,157:27:20,3,3,4.0,566887,566840
